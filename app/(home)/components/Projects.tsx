@@ -38,7 +38,7 @@ export default function Projects() {
     {
       title: "New Portfolio",
       tech: [SiNextdotjs, SiTailwindcss, SiTypescript],
-      link: "http://localhost:3000/",
+      link: "https://portfolio-two-xi-92.vercel.app/",
       cover: "/Image4.png",
       background: "bg-indigo-500",
     },
